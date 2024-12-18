@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=LAN_RJ45.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=LAN_RJ45.SchDoc|FileName=Power Regulation.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=LAN_RJ45.SchDoc|FileName=RPi_Carrier.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=LAN_RJ45.SchDoc|FileName=USB Hub.SchDoc|SheetNumber=3
